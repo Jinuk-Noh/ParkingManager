@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "주차관리 프로그램 연습", "주차관리 프로그램 연습.csproj", "{5749EB95-9DA5-4BEE-BF17-1A64D7C56F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5749EB95-9DA5-4BEE-BF17-1A64D7C56F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5749EB95-9DA5-4BEE-BF17-1A64D7C56F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5749EB95-9DA5-4BEE-BF17-1A64D7C56F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5749EB95-9DA5-4BEE-BF17-1A64D7C56F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7282BCFB-B655-43EF-9141-A2A4E9CC43A1}
+	EndGlobalSection
+EndGlobal
