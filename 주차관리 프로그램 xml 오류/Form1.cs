@@ -53,7 +53,7 @@ namespace 주차관리_프로그램_연습
                         dataGridView1.DataSource = null;
                         dataGridView1.DataSource = DataManager.Cars;
                         DataManager.Save();
-                        using (StreamWriter writer = new StreamWriter(@"C:\Users\KB\source\repos\c#\주차관리 프로그램 연습 - 복사본\bin\log\" + DateTime.Now.ToString("yyyy/MM/dd")+".txt", true))
+                        using (StreamWriter writer = new StreamWriter(@"..\log\" + DateTime.Now.ToString("yyyy/MM/dd")+".txt", true))
                         {
                             writer.WriteLine(content);
                         }
@@ -91,7 +91,7 @@ namespace 주차관리_프로그램_연습
 
                         string content = $"{car.parkingTime.ToString("yyyy-MM-dd hh: mm:ss")}  {textBox_driverName.Text}님의 차량 번호{textBox_carNumber.Text}가{textBox_spotNumber.Text}에서 출차하였습니다.";
                         listBox1.Items.Insert(0, content);
-                        using (StreamWriter writer = new StreamWriter(@"C:\Users\KB\source\repos\c#\주차관리 프로그램 연습 - 복사본\bin\log\" + DateTime.Now.ToString("yyyy/MM/dd")+".txt", true))
+                        using (StreamWriter writer = new StreamWriter(@"..\log\" + DateTime.Now.ToString("yyyy/MM/dd")+".txt", true))
                         {
                             writer.WriteLine(content);
                         }

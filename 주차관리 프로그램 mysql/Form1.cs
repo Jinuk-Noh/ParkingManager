@@ -53,7 +53,7 @@ namespace 주차관리_프로그램_연습
                         string content = $"{dataGridView2.CurrentRow.Cells[4].Value.ToString()} 차량 번호{dataGridView2.CurrentRow.Cells[1].Value.ToString()}가 {dataGridView2.CurrentRow.Cells[0].Value.ToString()}에서 주차하였습니다.";
                         listBox1.Items.Insert(0,content);
 
-                        using (StreamWriter writer = new StreamWriter(@"C:\Users\KB\source\repos\c#\주차관리 프로그램 mysql\bin\log\" + DateTime.Now.ToString("yyyy/MM/dd")+".txt", true))
+                        using (StreamWriter writer = new StreamWriter(@"..\log\" + DateTime.Now.ToString("yyyy/MM/dd")+".txt", true))
                         {
                             writer.WriteLine(content);
                         }
@@ -86,7 +86,7 @@ namespace 주차관리_프로그램_연습
 
                         string content = $"{dataGridView2.CurrentRow.Cells[4].Value.ToString()} 차량 번호{dataGridView2.CurrentRow.Cells[1].Value.ToString()}가 {dataGridView2.CurrentRow.Cells[0].Value.ToString()}에서 출차하였습니다.";
                         listBox1.Items.Insert(0, content);
-                        using (StreamWriter writer = new StreamWriter(@"C:\Users\KB\source\repos\c#\주차관리 프로그램 mysql\bin\log\" + DateTime.Now.ToString("yyyy/MM/dd") + ".txt", true))
+                        using (StreamWriter writer = new StreamWriter(@"..\log\" + DateTime.Now.ToString("yyyy/MM/dd") + ".txt", true))
                         {
                             writer.WriteLine(content);
                         }
