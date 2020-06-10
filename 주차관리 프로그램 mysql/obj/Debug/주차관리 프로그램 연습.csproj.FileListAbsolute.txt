@@ -43,3 +43,12 @@ C:\Users\KB\source\repos\c#\주차관리 프로그램 mysql\obj\Debug\주차관�
 C:\Users\KB\source\repos\c#\주차관리 프로그램 mysql\obj\Debug\주차관리 프로그램 연습.csproj.GenerateResource.cache
 C:\Users\KB\source\repos\c#\주차관리 프로그램 mysql\obj\Debug\주차관리 프로그램 연습.exe
 C:\Users\KB\source\repos\c#\주차관리 프로그램 mysql\obj\Debug\주차관리 프로그램 연습.pdb
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\bin\Debug\주차관리 프로그램 연습.exe.config
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\bin\Debug\주차관리 프로그램 연습.exe
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\bin\Debug\주차관리 프로그램 연습.pdb
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\obj\Debug\주차관리 프로그램 연습.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\obj\Debug\주차관리_프로그램_연습.Form1.resources
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\obj\Debug\주차관리_프로그램_연습.Properties.Resources.resources
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\obj\Debug\주차관리 프로그램 연습.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\obj\Debug\주차관리 프로그램 연습.exe
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 mysql\obj\Debug\주차관리 프로그램 연습.pdb

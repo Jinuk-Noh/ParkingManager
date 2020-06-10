@@ -34,3 +34,6 @@ C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프
 C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 xml 오류\obj\Debug\주차관리 프로그램 연습.csproj.GenerateResource.cache
 C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 xml 오류\obj\Debug\주차관리 프로그램 연습.exe
 C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 xml 오류\obj\Debug\주차관리 프로그램 연습.pdb
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 xml 오류\bin\Debug\MetroFramework.dll
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 xml 오류\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\KB\Desktop\포트폴리오\주차관리\ParkingManager\주차관리 프로그램 xml 오류\obj\Debug\주차관리 프로그램 연습.csproj.CopyComplete
